@@ -11,12 +11,12 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Screenshot]![](./Screenshot3.jpg)
   - [Screenshot]![](./Screenshot4.jpg)
   - [Links](https://github.com/H-wq-prog/browser-extensions.git)
-- [My process](#my-process)
+- [My process](https://h-wq-prog.github.io/browser-extensions/)
 - [Built with](frontend mentor)
 
 
 - Solution URL:(https://github.com/H-wq-prog/browser-extensions.git)
-- Live Site URL:(https://your-live-site-url.com)
+- Live Site URL:(https://h-wq-prog.github.io/browser-extensions/)
 
 
 
